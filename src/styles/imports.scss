@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+$fontFamily: 'Rock Salt', cursive;
+$background-color: #FFD90F;
+
 @import "./globals";
 @import "./navbar";
 @import "./homePage";
 @import "./rickAndMortyCard";
 @import "./rickAndMortyDetails";
+@import "./footer";
+@import "./contactPage";
+@import "./app";
+@import "./header";

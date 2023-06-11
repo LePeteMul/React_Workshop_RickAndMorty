@@ -1,8 +1,11 @@
+import React from "react";
+
+
 function ContactPage() {
     return (
-        <>
-            <h1>Rick Contact</h1>
-        </>
+        <div className="contactpage">
+            Rick Contact !
+        </div>
     )
 }
 

@@ -1,9 +1,14 @@
-function NavBar() {
-    return (
-        <nav className="navbar">
+import React from "react";
 
-        </nav>
-    )
+function NavBar() {
+  return (
+    <nav className="navbar">
+        <ul>
+        <li>Rick & Morty</li>
+        <li>Contact us</li>
+      </ul>
+    </nav>
+  );
 }
 
 export default NavBar;
